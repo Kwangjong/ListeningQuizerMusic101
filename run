@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd "$(dirname "$0")"
+javac ListeningQuizer.java WAV.java
+java -Xms4096M -Xmx6144M ListeningQuizer
