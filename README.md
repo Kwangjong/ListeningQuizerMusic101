@@ -8,12 +8,8 @@ All wav files of Listening List Music 101 Fall 2018 can be downloaded here: <br 
 https://drive.google.com/drive/folders/1hpp1gHnbEO7nKMPmCT75hjTSmr6dFKJu?usp=sharing <br />
 Execute bash file run to start quizing.
 
-## Authors
-KJ Choi
 
-License
--------
-
+## License
 MIT License
 
 Copyright (c) 2018 Kwangjong Choi
@@ -35,3 +31,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+## Authors
+KJ Choi
